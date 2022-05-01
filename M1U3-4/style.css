@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+h1 {
+    color: red;
+}
+
+.titulo {
+    color: black;
+    font-weight: bolder;
+}
+
+ul {
+    border-radius: 15px;
+    padding: 15px;
+    border-color: black;
+    background-color: #ffb700;
+}
+
+a {
+    background-color: red;
+    text-decoration: underline;
+}
